@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nilesh Patil
+- 👋 Hi, I’m Nilesh Patil
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on 
